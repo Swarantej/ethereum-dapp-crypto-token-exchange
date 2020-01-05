@@ -1,6 +1,9 @@
 This is my first blockchain application built on Ethereum network. 
 This includes creation of a crypto currency and Crypto Exchange web application.
 
+The application is deployed in Heroku server. URL: https://swarantej-dapp-token-exchange.herokuapp.com/
+If you get an error in accessing the applciation your browser, simply wait for sometime to "wake up" the app(as it is the free service), and then refresh the page.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
