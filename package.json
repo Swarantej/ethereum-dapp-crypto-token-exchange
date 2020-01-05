@@ -4,6 +4,9 @@
   "description": "Decentralized Ethereum Token Exchange",
   "author": "Swarantej Vuppu",
   "private": true,
+  "engines": {
+    "node": "8.11.1"
+  },
   "dependencies": {
     "apexcharts": "3.6.3",
     "babel-polyfill": "6.26.0",
@@ -45,6 +48,8 @@
   "eslintConfig": {
     "extends": "react-app"
   },
+
+
   "browserslist": [
     ">0.2%",
     "not dead",

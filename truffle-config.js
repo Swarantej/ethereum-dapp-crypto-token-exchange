@@ -21,6 +21,7 @@ module.exports = {
 
         //URL for ethereum node
         `https://kovan.infura.io/v3/${process.env.INFURA_API_KEY}`
+        //kovan.infura.io/v3/e29c92e17ade4907b24eefb5240e1185
         )
     },
 
