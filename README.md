@@ -1,3 +1,6 @@
+This is my first blockchain application built on Ethereum network. 
+This includes creation of a crypto currency and Crypto Exchange web application.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
